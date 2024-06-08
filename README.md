@@ -5,12 +5,12 @@ Este projeto foi feito pela turma 06 do curso de Análise de Dados e Dashboards 
 
 Integrantes:
 
-Marcos Neves
-Carina Mayara
-Ana Carolina Riodades
-David Ben
-Rafael Souza
-Giovanna Shiguemori
+Marcos Neves;
+Carina Mayara;
+Ana Carolina Riodades;
+David Ben;
+Rafael Souza;
+Giovanna Shiguemori.
 
 Metodologia de trabalho utilizada : Scrum
 
